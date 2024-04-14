@@ -1,0 +1,5 @@
+/bin/
+/node_modules/
+gcloudrun-lab.docx
+package-lock.json
+pulumi.dev.yaml
